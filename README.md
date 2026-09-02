@@ -1,3 +1,5 @@
+<p align="center"><img src="./profile-banner.png" alt="Vaibhav Dohale GitHub profile banner" width="100%" /></p>
+
 # Hi, I'm Vaibhav Dohale
 
 ### Aspiring Data Scientist | Continuous Learner | On the Path to Becoming a Data Analyst
