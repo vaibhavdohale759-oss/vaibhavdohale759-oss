@@ -46,6 +46,11 @@ A Python-based interactive detective game that turns relationship-themed answers
 
 [View the Cupid Detective repository](https://github.com/vaibhavdohale759-oss/Cupid-Detective)
 
+### Sales Data Analysis with Python
+A reproducible retail analytics project using Pandas, Matplotlib, and Seaborn to clean transaction data, analyze revenue trends, compare countries and products, and produce business insights.
+
+[View the Sales Data Analysis repository](https://github.com/vaibhavdohale759-oss/sales-data-analysis)
+
 ## Currently Learning
 
 I’m currently strengthening my foundation in **Data Analytics**, **Statistics**, **Pandas**, and **Machine Learning** as I continue working toward a career as a data analyst and aspiring data scientist.
