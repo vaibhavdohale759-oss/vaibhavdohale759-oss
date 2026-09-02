@@ -30,3 +30,5 @@ I’m currently developing my skills in data analytics and working toward becomi
 ## Connect
 
 - GitHub: [@vaibhavdohale759-oss](https://github.com/vaibhavdohale759-oss)
+- LinkedIn: [Vaibhav Dohale](https://www.linkedin.com/in/vaibhav-dohale-76a26b2aa/)
+- Email: [vaibhav759dohale@gmail.com](mailto:vaibhav759dohale@gmail.com)
