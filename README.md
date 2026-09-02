@@ -44,6 +44,10 @@ A Python-based interactive detective game that turns relationship-themed answers
 
 [View the Cupid Detective repository](https://github.com/vaibhavdohale759-oss/Cupid-Detective)
 
+## Currently Learning
+
+I’m currently strengthening my foundation in **Data Analytics**, **Statistics**, **Pandas**, and **Machine Learning** as I continue working toward a career as a data analyst and aspiring data scientist.
+
 ## Current Focus
 
 I’m currently developing my skills in data analytics and working toward becoming a data analyst, while continuing to explore data science, AI, and workflow automation.
