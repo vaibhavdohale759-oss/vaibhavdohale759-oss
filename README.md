@@ -27,6 +27,13 @@ A Python-based interactive detective game featuring rule-based scoring, compatib
 
 I’m currently developing my skills in data analytics and working toward becoming a data analyst, while continuing to explore data science, AI, and workflow automation.
 
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaibhavdohale759-oss&show_icons=true&theme=default&hide_border=true" alt="Vaibhav's GitHub statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavdohale759-oss&layout=compact&theme=default&hide_border=true" alt="Vaibhav's most used languages" height="165" />
+</p>
+
 ## Connect
 
 - GitHub: [@vaibhavdohale759-oss](https://github.com/vaibhavdohale759-oss)
