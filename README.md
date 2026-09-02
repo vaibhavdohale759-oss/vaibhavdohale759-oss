@@ -31,7 +31,16 @@ ChatGPT • Claude • Manus
 ## Featured Project
 
 ### Cupid Detective
-A Python-based interactive detective game featuring rule-based scoring, compatibility analysis, case history, statistics, PDF reports, and automated tests.
+A Python-based interactive detective game that turns relationship-themed answers into a playful compatibility investigation. Built as an entertainment project, it demonstrates practical software development, data processing, reporting, and testing skills.
+
+**Highlights:**
+
+- Rule-based scoring, compatibility ratings, risk analysis, badges, and suggestions.
+- Persistent case history with browsing, searching, and statistics dashboards.
+- Text and PDF report generation for every investigation.
+- Validated menu input and automated regression and integration tests.
+
+**Built with:** Python, ReportLab, file-based data storage, and automated testing.
 
 [View the Cupid Detective repository](https://github.com/vaibhavdohale759-oss/Cupid-Detective)
 
