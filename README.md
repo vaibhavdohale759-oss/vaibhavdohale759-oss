@@ -59,6 +59,10 @@ I’m currently developing my skills in data analytics and working toward becomi
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavdohale759-oss&layout=compact&theme=default&hide_border=true" alt="Vaibhav's most used languages" height="165" />
 </p>
 
+## Open to Opportunities
+
+I’m open to **internships**, **entry-level data analyst opportunities**, collaborations, and practical learning projects where I can apply my skills in Python, SQL, Power BI, data analysis, and AI-powered workflow automation.
+
 ## Connect
 
 - GitHub: [@vaibhavdohale759-oss](https://github.com/vaibhavdohale759-oss)
