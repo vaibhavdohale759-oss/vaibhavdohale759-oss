@@ -2,62 +2,52 @@
 
 # Hi, I'm Vaibhav Dohale
 
-### Aspiring Data Scientist | Continuous Learner | On the Path to Becoming a Data Analyst
+### Aspiring Data Analyst | Python | SQL | Power BI | Business Analytics
 
-I’m an aspiring data professional building my skills in data analysis, programming, visualization, and AI-powered productivity. I enjoy learning by creating practical projects and using technology to automate repetitive work.
+I’m an aspiring data analyst building practical skills in Python, SQL, Power BI, statistics, and business analytics. I enjoy turning raw data into clear insights, reports, dashboards, and recommendations that support better decisions.
 
-## Skills
+## What I Work With
 
-- Python
-- SQL
-- Power BI
-- Data Analysis and Visualization
-- Artificial Intelligence and Workflow Automation
+- **Data analysis:** Python, Pandas, data cleaning, exploratory analysis, and statistics
+- **Business analytics:** revenue trends, customer behavior, retention, segmentation, and KPIs
+- **SQL:** aggregations, joins, date analysis, business questions, and reporting workflows
+- **Visualization:** Power BI, Matplotlib, and Seaborn
+- **Workflow automation:** using AI tools to reduce repetitive work and improve productivity
 
-## Tech Stack & Tools
+## Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/AI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence" />
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" />
-  <img src="https://img.shields.io/badge/Manus-111827?style=for-the-badge&logoColor=white" alt="Manus" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn" />
 </p>
 
-## AI Tools
+## Featured Projects
 
-ChatGPT • Claude • Manus
+### 1. Sales Data Analysis with Python
 
-## Featured Project
+**Business problem:** Understand revenue performance, customer value, retention, product economics, and cancellations from retail transaction data.
 
-### Cupid Detective
-A Python-based interactive detective game that turns relationship-themed answers into a playful compatibility investigation. Built as an entertainment project, it demonstrates practical software development, data processing, reporting, and testing skills.
+**Tools:** Python, Pandas, Matplotlib, Seaborn, GitHub Actions.
 
-**Highlights:**
+**Highlights:** RFM customer segmentation, cohort retention, average order value, cancellation analysis, merchandise economics, generated reports, and automated verification.
 
-- Rule-based scoring, compatibility ratings, risk analysis, badges, and suggestions.
-- Persistent case history with browsing, searching, and statistics dashboards.
-- Text and PDF report generation for every investigation.
-- Validated menu input and automated regression and integration tests.
-
-**Built with:** Python, ReportLab, file-based data storage, and automated testing.
-
-[View the Cupid Detective repository](https://github.com/vaibhavdohale759-oss/Cupid-Detective)
-
-### Sales Data Analysis with Python
-A reproducible retail analytics project using Pandas, Matplotlib, and Seaborn to clean transaction data, analyze revenue trends, compare countries and products, and produce business insights.
+**Result:** Analyzed **530,104 valid sale line items, 19,960 orders, and 4,338 customers** to produce business-focused insights and recommendations.
 
 [View the Sales Data Analysis repository](https://github.com/vaibhavdohale759-oss/sales-data-analysis)
 
+### 2. Cupid Detective
+
+A modular Python application demonstrating scoring logic, input validation, persistent history, statistics, PDF reporting, case search, and automated tests. This project highlights software development and Python problem-solving ability.
+
+[View the Cupid Detective repository](https://github.com/vaibhavdohale759-oss/Cupid-Detective)
+
 ## Currently Learning
 
-I’m currently strengthening my foundation in **Data Analytics**, **Statistics**, **Pandas**, and **Machine Learning** as I continue working toward a career as a data analyst and aspiring data scientist.
-
-## Current Focus
-
-I’m currently developing my skills in data analytics and working toward becoming a data analyst, while continuing to explore data science, AI, and workflow automation.
+I’m currently strengthening my skills in **SQL business analysis**, **Power BI dashboard design**, **statistics**, **customer analytics**, and **business communication**. My goal is to connect technical analysis with clear recommendations and measurable business questions.
 
 ## GitHub Stats
 
@@ -68,7 +58,7 @@ I’m currently developing my skills in data analytics and working toward becomi
 
 ## Open to Opportunities
 
-I’m open to **internships**, **entry-level data analyst opportunities**, collaborations, and practical learning projects where I can apply my skills in Python, SQL, Power BI, data analysis, and AI-powered workflow automation.
+I’m open to **Data Analyst internships**, **trainee and entry-level Data Analyst roles**, collaborations, and practical business analytics projects where I can apply Python, SQL, Power BI, and data storytelling.
 
 ## Connect
 
