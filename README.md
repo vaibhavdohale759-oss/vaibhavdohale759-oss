@@ -63,6 +63,10 @@ A modular Python application demonstrating scoring logic, input validation, pers
 
 [View the Cupid Detective repository](https://github.com/vaibhavdohale759-oss/Cupid-Detective)
 
+## Engineering Approach
+
+My portfolio projects use reproducible Python pipelines, SQL window functions, data-quality reports, automated tests, and GitHub Actions validation. I focus on connecting reliable analysis to clear business decisions rather than presenting charts without context.
+
 ## Currently Learning
 
 I’m currently strengthening my skills in **SQL business analysis**, **Power BI dashboard design**, **statistics**, **customer analytics**, and **business communication**. My goal is to connect technical analysis with clear recommendations and measurable business questions.
