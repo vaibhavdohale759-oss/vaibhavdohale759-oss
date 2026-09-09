@@ -57,7 +57,7 @@ An e-commerce operations analysis using Python and SQL to measure on-time delive
 
 [View the Sales Data Analysis repository](https://github.com/vaibhavdohale759-oss/sales-data-analysis)
 
-### 3. Cupid Detective
+### 5. Cupid Detective
 
 A modular Python application demonstrating scoring logic, input validation, persistent history, statistics, PDF reporting, case search, and automated tests. This project highlights software development and Python problem-solving ability.
 
