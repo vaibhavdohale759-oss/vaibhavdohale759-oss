@@ -33,7 +33,13 @@ A customer analytics project using Python and SQL to identify churn-risk segment
 
 [View the Customer Churn and Retention Analysis repository](https://github.com/vaibhavdohale759-oss/customer-churn-retention-analysis)
 
-### 2. Sales Data Analysis with Python
+### 2. Marketing Campaign Performance and ROI Analysis
+
+A campaign analytics project using Python and SQL to compare response rates, customer value, purchase channels, and a transparent ROI proxy. Includes campaign KPI calculations, targeting insights, charts, and a Power BI dashboard specification.
+
+[View the Marketing Campaign Performance and ROI Analysis repository](https://github.com/vaibhavdohale759-oss/marketing-campaign-roi-analysis)
+
+### 3. Sales Data Analysis with Python
 
 **Business problem:** Understand revenue performance, customer value, retention, product economics, and cancellations from retail transaction data.
 
