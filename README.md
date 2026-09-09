@@ -39,7 +39,13 @@ A campaign analytics project using Python and SQL to compare response rates, cus
 
 [View the Marketing Campaign Performance and ROI Analysis repository](https://github.com/vaibhavdohale759-oss/marketing-campaign-roi-analysis)
 
-### 3. Sales Data Analysis with Python
+### 3. Operations and Delivery Performance Dashboard
+
+An e-commerce operations analysis using Python and SQL to measure on-time delivery, late-delay severity, cancellations, freight share, and regional performance. Includes reproducible order-level metrics, charts, and a Power BI dashboard specification.
+
+[View the Operations and Delivery Performance repository](https://github.com/vaibhavdohale759-oss/operations-delivery-performance)
+
+### 4. Sales Data Analysis with Python
 
 **Business problem:** Understand revenue performance, customer value, retention, product economics, and cancellations from retail transaction data.
 
