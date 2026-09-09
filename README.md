@@ -27,7 +27,13 @@ I’m an aspiring data analyst building practical skills in Python, SQL, Power B
 
 ## Featured Projects
 
-### 1. Sales Data Analysis with Python
+### 1. Customer Churn and Retention Analysis
+
+A customer analytics project using Python and SQL to identify churn-risk segments, estimate monthly charges associated with churned customers, and translate findings into retention actions. Includes reproducible cleaning, SQLite-ready queries, charts, and a Power BI dashboard specification.
+
+[View the Customer Churn and Retention Analysis repository](https://github.com/vaibhavdohale759-oss/customer-churn-retention-analysis)
+
+### 2. Sales Data Analysis with Python
 
 **Business problem:** Understand revenue performance, customer value, retention, product economics, and cancellations from retail transaction data.
 
@@ -39,7 +45,7 @@ I’m an aspiring data analyst building practical skills in Python, SQL, Power B
 
 [View the Sales Data Analysis repository](https://github.com/vaibhavdohale759-oss/sales-data-analysis)
 
-### 2. Cupid Detective
+### 3. Cupid Detective
 
 A modular Python application demonstrating scoring logic, input validation, persistent history, statistics, PDF reporting, case search, and automated tests. This project highlights software development and Python problem-solving ability.
 
